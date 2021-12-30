@@ -23,9 +23,5 @@
   <img align="right" alt="Code" style="width:120px; height: auto;" src="https://c.tenor.com/fBOhx_wbz1kAAAAC/yawn-tired.gif">
   
   ## redes sociais
-  
-
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
