@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Edinaelson
 
-- 🔭 Atuamente estou estudando fortemente a linguagem c# na parte de back-end
+- 🔭 Atuamente estou estudando fortemente a linguagem c#
 - 📫 Contate-me no email: sedinaelson@live.com
 
 <div>
