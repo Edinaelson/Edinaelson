@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Edinaelson
 
 - 🔭 Atuamente estou estudando Java.
-- 📫 Contate-me no email: sedinaelson@live.com
+- 📫 Contate-me no email: sedinaelson@gmail.com
 
 <div>
   <a href="https://github.com/Edinaelson/">
