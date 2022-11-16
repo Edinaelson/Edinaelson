@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Edinaelson
 
-- 🔭 Atuamente estou estudando Java.
+- 🔭 Atuamente estou estudando C#, .NET, CakePHP.
 - 📫 Contate-me no email: sedinaelson@gmail.com
 
 <div>
