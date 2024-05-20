@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Edinaelson
 
-- 🔭 Atuamente estou estudando Java na turma ONE - Oracle Next Education.
+- 🔭 Atuamente estou estudando Csharp - .Net - Mysql
 - 📫 Contate-me no email: sedinaelson@gmail.com
 
 <div>
