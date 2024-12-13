@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Edinaelson
 
-- 🔭 Atuamente estou estudando Csharp - .Net - Mysql
+- 🔭 Atuamente estou estudando Csharp - Dotnet - ASP.NET core razor pages
 - 📫 Contate-me no email: sedinaelson@gmail.com
 
 <div>
