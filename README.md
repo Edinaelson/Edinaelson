@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Edinaelson
 
-- 🔭 Atuamente estou estudando Csharp - Dotnet - ASP.NET core razor pages
+- 🔭 Atuamente estou estudando Csharp - Dotnet - ASP.NET core razor pages, Blazor, Sqlite
 - 📫 Contate-me no email: sedinaelson@gmail.com
 
 <div>
